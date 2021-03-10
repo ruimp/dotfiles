@@ -9,5 +9,16 @@ The polybar configuration employs themes and scripts from[[https://github.com/ad
 Installation is as easy as making a symlink. Clone the repository
 
 #+begin_src bash
-git clone https://github.com/ruimp/dotfiles.git .dotfiles/dotfiles
+git clone https://github.com/ruimp/dotfiles.git ~/.dotfiles/dotfiles
 #+end_src
+
+and symlink the configuration files like, for example,
+
+#+begin_src
+mkdir -p ~/.config/i3
+ln -sf ~/.dotfiles/i3/config ~/.config/i3/config
+#+end_src
+
+**   Feedback
+
+Feedback and configuration ideas are always welcome!
