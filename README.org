@@ -2,4 +2,12 @@
 
 ** Polybar
 
-The polybar configuration employs themes and scripts from[[https://github.com/adi1090x/polybar-themes][ adi1090x/polybar-themes]] and, as such, the installation of such themes is necessary before employing the custom launch script.
+The polybar configuration employs themes and scripts from[[https://github.com/adi1090x/polybar-themes][ adi1090x/polybar-themes]] and, as such, the installation of such themes is necessary before using the custom launch script.
+
+** Installation
+
+Installation is as easy as making a symlink. Clone the repository
+
+#+begin_src bash
+git clone https://github.com/ruimp/dotfiles.git .dotfiles/dotfiles
+#+end_src
