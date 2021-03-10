@@ -1,1 +1,5 @@
-# Personal dotfiles
+* Personal dotfiles
+
+** Polybar
+
+The polybar configuration employs themes and scripts from[[https://github.com/adi1090x/polybar-themes][ adi1090x/polybar-themes]] and, as such, the installation of such themes is necessary before employing the custom launch script.
