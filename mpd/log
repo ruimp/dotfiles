@@ -1,0 +1,48 @@
+Mar 05 10:32 : exception: Failed to open '/home/dot/.config/mpd/state': No such file or directory
+Mar 05 10:32 : exception: Failed to open '/home/dot/.config/mpd/state': No such file or directory
+Mar 05 10:32 : exception: Failed to open '/home/dot/.config/mpd/state': No such file or directory
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 05 Песнь 5.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 03 Песнь 3.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 01 Песнь 1.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 08 Песнь 8.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 04 Песнь 4.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 07 Песнь 7.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 06 Песнь 6.flac
+Mar 05 10:40 : update: added KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 02 Песнь 2.flac
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : player: problems opening audio device while playing "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 05 Песнь 5.flac"
+Mar 05 10:41 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 05 Песнь 5.flac"
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : player: problems opening audio device while playing "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 06 Песнь 6.flac"
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 06 Песнь 6.flac"
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : player: problems opening audio device while playing "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 01 Песнь 1.flac"
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 05 10:41 : exception: Failed to commit /home/dot/.config/mpd/state: File exists
+Mar 05 10:41 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 01 Песнь 1.flac"
+Mar 05 12:49 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 02 Песнь 2.flac"
+Mar 05 12:50 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 02 Песнь 2.flac"
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 07 13:38 : exception: Failed to open /home/dot/.config/mpd/playlists: No such file or directory
+Mar 08 09:18 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 03 Песнь 3.flac"
+Mar 08 16:36 : player: played "KrzysztofDrabikowski/Панихида/Krzysztof Drabikowski - Панихида - 03 Песнь 3.flac"
