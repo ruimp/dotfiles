@@ -1,0 +1,12 @@
+# Fonts
+font-family = "ZedMono NFM"
+font-size = 17
+
+# Window
+window-save-state = "always"
+
+# Theme
+# theme = light:Github-Light-Default,dark:base16-black-metal
+theme = light:Github-Light-Default,dark:mellow
+window-theme = system
+macos-titlebar-style = transparent

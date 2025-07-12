@@ -1,0 +1,5 @@
+add_newline = false
+format = '$all'
+
+[character]
+success_symbol = "[λ](bold green)"
