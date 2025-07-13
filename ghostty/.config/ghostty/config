@@ -1,6 +1,6 @@
 # Fonts
 font-family = "ZedMono NFM"
-font-size = 17
+font-size = 18
 
 # Window
 window-save-state = "always"
