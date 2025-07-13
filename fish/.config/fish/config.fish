@@ -1,13 +1,11 @@
-if status is-interactive
-    # greeting
+if status is-interactive # greeting
     set -g fish_greeting
 
     # path
-    fish_add_path ~/.cargo/bin
+    fish_add_path ~/.cargo/bin # env
 
-    # env
-    set -x EDITOR nvim
-    set -x VISUAL nvim
+    set -x EDITOR hx
+    set -x VISUAL hx
     set -x TYPST_FONT_PATHS ~/.fonts
 
     # alias
@@ -17,7 +15,7 @@ if status is-interactive
 
     # load
     eval (/opt/homebrew/bin/brew shellenv)
-    starship init fish | source
+    # starship init fish | source
     zoxide init fish | source
 end
 
