@@ -15,7 +15,7 @@ if status is-interactive # greeting
 
     # load
     eval (/opt/homebrew/bin/brew shellenv)
-    # starship init fish | source
+    starship init fish | source
     zoxide init fish | source
 end
 
