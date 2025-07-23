@@ -6,7 +6,7 @@ font-size = 18
 window-save-state = "always"
 
 # Theme
-# theme = light:Github-Light-Default,dark:base16-black-metal
-theme = light:Github-Light-Default,dark:mellow
+# theme = light:Github-Light-Default,dark:mellow
+theme = tokyonight
 window-theme = system
 macos-titlebar-style = transparent

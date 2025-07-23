@@ -205,7 +205,6 @@
       },
       {
         "color" : "#6BD35F",
-        "disabled" : true,
         "id" : "53A392A9-4B24-4C4D-BADF-5CB5AEB13F2B",
         "name" : "Files & Folders",
         "symbol" : "folder",
@@ -501,7 +500,6 @@
       },
       {
         "color" : "#A78F6D",
-        "disabled" : true,
         "id" : "D016BDD3-9253-44EE-8BF4-C0F5F224834B",
         "name" : "Windows",
         "symbol" : "laptopcomputer",
@@ -668,7 +666,7 @@
                   "animationDuration" : 0,
                   "kind" : {
                     "moveToNextDisplay" : {
-                      "mode" : "center"
+                      "mode" : "relative"
                     }
                   },
                   "meta" : {
