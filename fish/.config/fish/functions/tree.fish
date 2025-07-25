@@ -1,3 +1,3 @@
 function tree --wraps eza
-    eza --tree --icons $argv
+    eza --tree --icons -L 4 $argv
 end

@@ -7,6 +7,6 @@ window-save-state = "always"
 
 # Theme
 # theme = light:Github-Light-Default,dark:mellow
-theme = tokyonight
+theme = dark:tokyonight,light:tokyonight-day
 window-theme = system
 macos-titlebar-style = transparent
