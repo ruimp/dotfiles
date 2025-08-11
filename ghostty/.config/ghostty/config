@@ -10,3 +10,6 @@ window-save-state = "always"
 theme = dark:tokyonight,light:tokyonight-day
 window-theme = system
 macos-titlebar-style = transparent
+
+# Keybindings
+macos-option-as-alt = left
